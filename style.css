@@ -5,11 +5,12 @@
 
 body{
 	background-image: url("background.jpg");
-	margin-left: 100px;
-	margin-right: 100px;
-	padding-top:25px;
+	padding-left: 100px;
+	padding-right: 100px;
+	padding-top:50px;
 	padding-bottom:30px;
 	font-family: 'Noto Serif Display', serif;
+	color: midnightblue;
 
 }
 
@@ -27,23 +28,22 @@ h2{ font-family: 'Noto Serif Display', serif;
 }
 h3{
 	font-size: 50px;
-text-decoration: underline;
-	text-align: center;
 
+	
 }
 		
 
 
 p{ 
-	margin-bottom:25px;
+	padding-bottom:25px;
 
 	
 }
 img{
 	
 	border-radius: 100%;
-	border: 5px solid #2E1503;
-	width:150px;
+	border: 5px solid ;
+	width:300px;
 
 
 }
@@ -68,4 +68,14 @@ li {
 
 }
 
+#movedown{
+	margin-top:70px;
+}
+
+
+.bg-dark{
+
+	background-color: #8FB8CA !important;
+	
+}
 
